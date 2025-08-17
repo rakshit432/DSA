@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rakshit432/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -15,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
