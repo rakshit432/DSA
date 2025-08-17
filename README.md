@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 ## Greedy
 |  |
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
