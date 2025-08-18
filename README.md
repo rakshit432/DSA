@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 ## Greedy
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
+## Array
+|  |
+| ------- |
+| [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
+## Backtracking
+|  |
+| ------- |
+| [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
 <!---LeetCode Topics End-->
