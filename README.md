@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakshit432/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rakshit432/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rakshit432/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rakshit432/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Backtracking
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rakshit432/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rakshit432/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/rakshit432/DSA/tree/master/0070-climbing-stairs) |
+| [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Enumeration
 |  |
 | ------- |
