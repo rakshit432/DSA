@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rakshit432/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3279-alice-and-bob-playing-flower-game](https://github.com/rakshit432/DSA/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Greedy
 |  |
 | ------- |
