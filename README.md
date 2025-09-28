@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/rakshit432/DSA/tree/master/0070-climbing-stairs) |
 | [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
+| [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rakshit432/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rakshit432/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rakshit432/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/rakshit432/DSA/tree/master/1917-maximum-average-pass-ratio) |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
+| [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1559-cherry-pickup-ii](https://github.com/rakshit432/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakshit432/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rakshit432/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rakshit432/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rakshit432/DSA/tree/master/3748-sort-matrix-by-diagonals) |
