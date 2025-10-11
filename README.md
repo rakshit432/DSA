@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rakshit432/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rakshit432/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1559-cherry-pickup-ii](https://github.com/rakshit432/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakshit432/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sliding Window
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rakshit432/DSA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rakshit432/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rakshit432/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/rakshit432/DSA/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rakshit432/DSA/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rakshit432/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rakshit432/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rakshit432/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rakshit432/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
@@ -181,8 +185,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rakshit432/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Two Pointers
 |  |
 | ------- |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rakshit432/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
+## Counting
+|  |
+| ------- |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 <!---LeetCode Topics End-->
