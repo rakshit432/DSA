@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rakshit432/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Math
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
 | [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rakshit432/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rakshit432/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/rakshit432/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1559-cherry-pickup-ii](https://github.com/rakshit432/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakshit432/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
@@ -152,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rakshit432/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rakshit432/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rakshit432/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
