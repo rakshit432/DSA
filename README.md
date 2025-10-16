@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rakshit432/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/rakshit432/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/rakshit432/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rakshit432/DSA/tree/master/0260-single-number-iii) |
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
+| [0078-subsets](https://github.com/rakshit432/DSA/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
 ## Depth-First Search
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rakshit432/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/rakshit432/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rakshit432/DSA/tree/master/0260-single-number-iii) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rakshit432/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
