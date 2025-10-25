@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rakshit432/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rakshit432/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rakshit432/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rakshit432/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rakshit432/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rakshit432/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rakshit432/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rakshit432/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Breadth-First Search
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
 | [0078-subsets](https://github.com/rakshit432/DSA/tree/master/0078-subsets) |
 | [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rakshit432/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rakshit432/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rakshit432/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/rakshit432/DSA/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/rakshit432/DSA/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2174-next-greater-numerically-balanced-number](https://github.com/rakshit432/DSA/tree/master/2174-next-greater-numerically-balanced-number) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Prefix Sum
 |  |
