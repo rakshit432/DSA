@@ -1,30 +1,31 @@
 class Solution {
 public:
-
-    bool canRun(long long t, int n, const vector<int>& batteries) {
-        long long energy = 0;
-        for (long long b : batteries) {
-            energy += min(b, t);
-        }
-        return energy >= t * n;
+    
+    bool possible(long long t, vector<int>& batteries, int n) {
+        long long sum = 0;
+        for (int b : batteries)
+            sum += min((long long)b, t);
+        
+        return sum >= t * n;
     }
 
     long long maxRunTime(int n, vector<int>& batteries) {
-
+        
         long long total = 0;
-        for (int b : batteries) total += b;
+        for (int b : batteries)
+            total += b;
 
-        long long low = 0, high = total / n;
+        long long l = 0, h = total / n;
 
-        while (low < high) {
-            long long mid = (low + high + 1) / 2;
+        while (l < h) {
+            long long m = (l + h + 1) / 2;   // IMPORTANT
 
-            if (canRun(mid, n, batteries))
-                low = mid;
+            if (possible(m, batteries, n))
+                l = m;
             else
-                high = mid - 1;
+                h = m - 1;
         }
 
-        return low;
+        return l;
     }
 };
