@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rakshit432/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/rakshit432/DSA/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/rakshit432/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/rakshit432/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/rakshit432/DSA/tree/master/0260-single-number-iii) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/rakshit432/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/rakshit432/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
 | [1559-cherry-pickup-ii](https://github.com/rakshit432/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/rakshit432/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/rakshit432/DSA/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rakshit432/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
