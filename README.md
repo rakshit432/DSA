@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2211-count-collisions-on-a-road](https://github.com/rakshit432/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rakshit432/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rakshit432/DSA/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rakshit432/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
+| [2211-count-collisions-on-a-road](https://github.com/rakshit432/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/rakshit432/DSA/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
 | [2169-simple-bank-system](https://github.com/rakshit432/DSA/tree/master/2169-simple-bank-system) |
+| [2211-count-collisions-on-a-road](https://github.com/rakshit432/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rakshit432/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/rakshit432/DSA/tree/master/3336-water-bottles-ii) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/rakshit432/DSA/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
