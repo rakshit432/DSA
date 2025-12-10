@@ -2,7 +2,7 @@ class Solution {
 public:
     int countPermutations(vector<int>& complexity) {
         
-        int mod = 1e9+7 ;
+       int mod = 1e9+7 ;
         int n = complexity.size();
         int  cnt = 0 ;
 
@@ -28,5 +28,6 @@ public:
 
         
         
+
     }
 };
