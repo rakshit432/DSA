@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakshit432/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/rakshit432/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/rakshit432/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/rakshit432/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/rakshit432/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/rakshit432/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/rakshit432/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/rakshit432/DSA/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rakshit432/DSA/tree/master/3748-sort-matrix-by-diagonals) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rakshit432/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/rakshit432/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/rakshit432/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Number Theory
 |  |
 | ------- |
