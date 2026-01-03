@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rakshit432/DSA/tree/master/0155-min-stack) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/rakshit432/DSA/tree/master/2211-count-collisions-on-a-road) |
 ## Matrix
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/rakshit432/DSA/tree/master/0155-min-stack) |
 | [2169-simple-bank-system](https://github.com/rakshit432/DSA/tree/master/2169-simple-bank-system) |
 ## Tree
 |  |
