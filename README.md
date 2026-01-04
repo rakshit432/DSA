@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/rakshit432/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
+| [1390-four-divisors](https://github.com/rakshit432/DSA/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rakshit432/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rakshit432/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/rakshit432/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshit432/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1390-four-divisors](https://github.com/rakshit432/DSA/tree/master/1390-four-divisors) |
 | [1559-cherry-pickup-ii](https://github.com/rakshit432/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakshit432/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
