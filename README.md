@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakshit432/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rakshit432/DSA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rakshit432/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/rakshit432/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/rakshit432/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/rakshit432/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakshit432/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [0137-single-number-ii](https://github.com/rakshit432/DSA/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/rakshit432/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/rakshit432/DSA/tree/master/0260-single-number-iii) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakshit432/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakshit432/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/rakshit432/DSA/tree/master/0155-min-stack) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/rakshit432/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/rakshit432/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/rakshit432/DSA/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/rakshit432/DSA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshit432/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rakshit432/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakshit432/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Memoization
 |  |
