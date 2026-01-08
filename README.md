@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakshit432/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rakshit432/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rakshit432/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rakshit432/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/rakshit432/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakshit432/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/rakshit432/DSA/tree/master/0155-min-stack) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/rakshit432/DSA/tree/master/2211-count-collisions-on-a-road) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakshit432/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rakshit432/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rakshit432/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/rakshit432/DSA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/rakshit432/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/rakshit432/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/rakshit432/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
