@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rakshit432/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/rakshit432/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rakshit432/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshit432/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/rakshit432/DSA/tree/master/1390-four-divisors) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
 | [0840-magic-squares-in-grid](https://github.com/rakshit432/DSA/tree/master/0840-magic-squares-in-grid) |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rakshit432/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshit432/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1559-cherry-pickup-ii](https://github.com/rakshit432/DSA/tree/master/1559-cherry-pickup-ii) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rakshit432/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshit432/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rakshit432/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rakshit432/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/rakshit432/DSA/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/rakshit432/DSA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/rakshit432/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
