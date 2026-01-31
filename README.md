@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/rakshit432/DSA/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/rakshit432/DSA/tree/master/0679-24-game) |
 | [0733-flood-fill](https://github.com/rakshit432/DSA/tree/master/0733-flood-fill) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rakshit432/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/rakshit432/DSA/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rakshit432/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/rakshit432/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/rakshit432/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/rakshit432/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rakshit432/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rakshit432/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
