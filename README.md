@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rakshit432/DSA/tree/master/0239-sliding-window-maximum) |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/rakshit432/DSA/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3634-minimum-removals-to-balance-array](https://github.com/rakshit432/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/rakshit432/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/rakshit432/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Probability and Statistics
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/rakshit432/DSA/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/rakshit432/DSA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/rakshit432/DSA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3634-minimum-removals-to-balance-array](https://github.com/rakshit432/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/rakshit432/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/rakshit432/DSA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/rakshit432/DSA/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3531-count-covered-buildings](https://github.com/rakshit432/DSA/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/rakshit432/DSA/tree/master/3606-coupon-code-validator) |
+| [3634-minimum-removals-to-balance-array](https://github.com/rakshit432/DSA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/rakshit432/DSA/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/rakshit432/DSA/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
