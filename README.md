@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/rakshit432/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/rakshit432/DSA/tree/master/0260-single-number-iii) |
 | [0401-binary-watch](https://github.com/rakshit432/DSA/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/rakshit432/DSA/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/rakshit432/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rakshit432/DSA/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/rakshit432/DSA/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
