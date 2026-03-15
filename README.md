@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/rakshit432/DSA/tree/master/1390-four-divisors) |
 | [1448-maximum-69-number](https://github.com/rakshit432/DSA/tree/master/1448-maximum-69-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rakshit432/DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1622-fancy-sequence](https://github.com/rakshit432/DSA/tree/master/1622-fancy-sequence) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/rakshit432/DSA/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-square-sum-triples](https://github.com/rakshit432/DSA/tree/master/1925-count-square-sum-triples) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rakshit432/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/rakshit432/DSA/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rakshit432/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1622-fancy-sequence](https://github.com/rakshit432/DSA/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/rakshit432/DSA/tree/master/2169-simple-bank-system) |
 ## Tree
 |  |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/rakshit432/DSA/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/rakshit432/DSA/tree/master/3454-separate-squares-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/rakshit432/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/rakshit432/DSA/tree/master/3721-longest-balanced-subarray-ii) |
