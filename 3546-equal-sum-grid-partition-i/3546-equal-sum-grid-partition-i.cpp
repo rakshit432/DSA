@@ -5,47 +5,44 @@ public:
         int n = grid.size();
         int m = grid[0].size();
 
-        vector<long long> rows(n, 0), cols(m, 0);
+        // -------- ROW CHECK --------
+        long long total = 0;
 
-        // Row sums
+        // total sum
         for(int i = 0; i < n; i++) {
             for(int j = 0; j < m; j++) {
-                rows[i] += grid[i][j];
+                total += grid[i][j];
             }
         }
 
-        // Column sums
-        for(int j = 0; j < m; j++) {
-            for(int i = 0; i < n; i++) {
-                cols[j] += grid[i][j];
+        long long curr = 0;
+
+        for(int i = 0; i < n - 1; i++) {
+            for(int j = 0; j < m; j++) {
+                curr += grid[i][j];
             }
-        }
 
-        // Prefix row
-        vector<long long> pre_row(n);
-        pre_row[0] = rows[0];
-        for(int i = 1; i < n; i++) {
-            pre_row[i] = pre_row[i-1] + rows[i];
-        }
-
-        long long total_row = pre_row[n-1];
-
-        for(int i = 1; i < n; i++) {
-            if(2LL * pre_row[i-1] == total_row)
+            if(2 * curr == total)
                 return true;
         }
 
-        // Prefix col
-        vector<long long> pre_col(m);
-        pre_col[0] = cols[0];
-        for(int j = 1; j < m; j++) {
-            pre_col[j] = pre_col[j-1] + cols[j];
+        // -------- COLUMN CHECK --------
+        total = 0;
+
+        for(int j = 0; j < m; j++) {
+            for(int i = 0; i < n; i++) {
+                total += grid[i][j];
+            }
         }
 
-        long long total_col = pre_col[m-1];
+        curr = 0;
 
-        for(int j = 1; j < m; j++) {
-            if(2LL * pre_col[j-1] == total_col)
+        for(int j = 0; j < m - 1; j++) {
+            for(int i = 0; i < n; i++) {
+                curr += grid[i][j];
+            }
+
+            if(2 * curr == total)
                 return true;
         }
 
