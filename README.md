@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/rakshit432/DSA/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2463-minimum-total-distance-traveled](https://github.com/rakshit432/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/rakshit432/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rakshit432/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/rakshit432/DSA/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2906-construct-product-matrix](https://github.com/rakshit432/DSA/tree/master/2906-construct-product-matrix) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/rakshit432/DSA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-simple-bank-system](https://github.com/rakshit432/DSA/tree/master/2169-simple-bank-system) |
 | [2211-count-collisions-on-a-road](https://github.com/rakshit432/DSA/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/rakshit432/DSA/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2553-separate-the-digits-in-an-array](https://github.com/rakshit432/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [3336-water-bottles-ii](https://github.com/rakshit432/DSA/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/rakshit432/DSA/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/rakshit432/DSA/tree/master/3433-count-mentions-per-user) |
