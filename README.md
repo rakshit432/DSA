@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/rakshit432/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rakshit432/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/rakshit432/DSA/tree/master/0137-single-number-ii) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rakshit432/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0238-product-of-array-except-self](https://github.com/rakshit432/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rakshit432/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/rakshit432/DSA/tree/master/0260-single-number-iii) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rakshit432/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rakshit432/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/rakshit432/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rakshit432/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/rakshit432/DSA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
