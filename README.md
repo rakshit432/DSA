@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/rakshit432/DSA/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/rakshit432/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/rakshit432/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rakshit432/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rakshit432/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
