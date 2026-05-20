@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/rakshit432/DSA/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/rakshit432/DSA/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rakshit432/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0402-remove-k-digits](https://github.com/rakshit432/DSA/tree/master/0402-remove-k-digits) |
 | [0657-robot-return-to-origin](https://github.com/rakshit432/DSA/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/rakshit432/DSA/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rakshit432/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rakshit432/DSA/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/rakshit432/DSA/tree/master/0402-remove-k-digits) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/rakshit432/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakshit432/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/rakshit432/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/rakshit432/DSA/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/rakshit432/DSA/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rakshit432/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rakshit432/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/rakshit432/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/rakshit432/DSA/tree/master/0402-remove-k-digits) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Memoization
