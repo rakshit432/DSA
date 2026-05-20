@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/rakshit432/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/rakshit432/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/rakshit432/DSA/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/rakshit432/DSA/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rakshit432/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/rakshit432/DSA/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/rakshit432/DSA/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/rakshit432/DSA/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/rakshit432/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Memoization
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/rakshit432/DSA/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/rakshit432/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0901-online-stock-span](https://github.com/rakshit432/DSA/tree/master/0901-online-stock-span) |
 | [1622-fancy-sequence](https://github.com/rakshit432/DSA/tree/master/1622-fancy-sequence) |
 | [2069-walking-robot-simulation-ii](https://github.com/rakshit432/DSA/tree/master/2069-walking-robot-simulation-ii) |
 | [2169-simple-bank-system](https://github.com/rakshit432/DSA/tree/master/2169-simple-bank-system) |
@@ -761,4 +764,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rakshit432/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rakshit432/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
