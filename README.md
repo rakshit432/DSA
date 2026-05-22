@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/rakshit432/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/rakshit432/DSA/tree/master/0402-remove-k-digits) |
+| [0846-hand-of-straights](https://github.com/rakshit432/DSA/tree/master/0846-hand-of-straights) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/rakshit432/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/rakshit432/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/rakshit432/DSA/tree/master/0460-lfu-cache) |
 | [0756-pyramid-transition-matrix](https://github.com/rakshit432/DSA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/rakshit432/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/rakshit432/DSA/tree/master/0846-hand-of-straights) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rakshit432/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0874-walking-robot-simulation](https://github.com/rakshit432/DSA/tree/master/0874-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/rakshit432/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/rakshit432/DSA/tree/master/0735-asteroid-collision) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/rakshit432/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0840-magic-squares-in-grid](https://github.com/rakshit432/DSA/tree/master/0840-magic-squares-in-grid) |
+| [0846-hand-of-straights](https://github.com/rakshit432/DSA/tree/master/0846-hand-of-straights) |
 | [0874-walking-robot-simulation](https://github.com/rakshit432/DSA/tree/master/0874-walking-robot-simulation) |
 | [0944-delete-columns-to-make-sorted](https://github.com/rakshit432/DSA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/rakshit432/DSA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0846-hand-of-straights](https://github.com/rakshit432/DSA/tree/master/0846-hand-of-straights) |
 | [1018-largest-perimeter-triangle](https://github.com/rakshit432/DSA/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/rakshit432/DSA/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/rakshit432/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
