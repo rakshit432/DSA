@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rakshit432/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/rakshit432/DSA/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/rakshit432/DSA/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/rakshit432/DSA/tree/master/0198-house-robber) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rakshit432/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rakshit432/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/rakshit432/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0137-single-number-ii](https://github.com/rakshit432/DSA/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/rakshit432/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0198-house-robber](https://github.com/rakshit432/DSA/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/rakshit432/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/rakshit432/DSA/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/rakshit432/DSA/tree/master/0260-single-number-iii) |
