@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/rakshit432/DSA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/rakshit432/DSA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/rakshit432/DSA/tree/master/1871-jump-game-vii) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/rakshit432/DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rakshit432/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2463-minimum-total-distance-traveled](https://github.com/rakshit432/DSA/tree/master/2463-minimum-total-distance-traveled) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/rakshit432/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/rakshit432/DSA/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/rakshit432/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [1936-add-minimum-number-of-rungs](https://github.com/rakshit432/DSA/tree/master/1936-add-minimum-number-of-rungs) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/rakshit432/DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rakshit432/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/rakshit432/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rakshit432/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rakshit432/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rakshit432/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/rakshit432/DSA/tree/master/1895-largest-magic-square) |
+| [1937-maximum-number-of-points-with-cost](https://github.com/rakshit432/DSA/tree/master/1937-maximum-number-of-points-with-cost) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rakshit432/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/rakshit432/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/rakshit432/DSA/tree/master/2244-number-of-laser-beams-in-a-bank) |
