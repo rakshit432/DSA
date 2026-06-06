@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/rakshit432/DSA/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/rakshit432/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/rakshit432/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1936-add-minimum-number-of-rungs](https://github.com/rakshit432/DSA/tree/master/1936-add-minimum-number-of-rungs) |
 | [1975-maximum-matrix-sum](https://github.com/rakshit432/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/rakshit432/DSA/tree/master/2126-destroying-asteroids) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/rakshit432/DSA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/rakshit432/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/rakshit432/DSA/tree/master/1895-largest-magic-square) |
 | [1917-maximum-average-pass-ratio](https://github.com/rakshit432/DSA/tree/master/1917-maximum-average-pass-ratio) |
+| [1936-add-minimum-number-of-rungs](https://github.com/rakshit432/DSA/tree/master/1936-add-minimum-number-of-rungs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/rakshit432/DSA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/rakshit432/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/rakshit432/DSA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
