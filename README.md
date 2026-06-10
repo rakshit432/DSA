@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/rakshit432/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/rakshit432/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rakshit432/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rakshit432/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/rakshit432/DSA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/rakshit432/DSA/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3689-maximum-total-subarray-value-i](https://github.com/rakshit432/DSA/tree/master/3689-maximum-total-subarray-value-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rakshit432/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/rakshit432/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/rakshit432/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/rakshit432/DSA/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1917-maximum-average-pass-ratio](https://github.com/rakshit432/DSA/tree/master/1917-maximum-average-pass-ratio) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rakshit432/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/rakshit432/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rakshit432/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -786,6 +789,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/rakshit432/DSA/tree/master/1622-fancy-sequence) |
 | [3161-block-placement-queries](https://github.com/rakshit432/DSA/tree/master/3161-block-placement-queries) |
 | [3454-separate-squares-ii](https://github.com/rakshit432/DSA/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/rakshit432/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/rakshit432/DSA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/rakshit432/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Line Sweep
