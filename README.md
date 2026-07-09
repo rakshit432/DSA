@@ -680,6 +680,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/rakshit432/DSA/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/rakshit432/DSA/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/rakshit432/DSA/tree/master/0696-count-binary-substrings) |
+| [0876-middle-of-the-linked-list](https://github.com/rakshit432/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakshit432/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rakshit432/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/rakshit432/DSA/tree/master/2392-successful-pairs-of-spells-and-potions) |
@@ -847,6 +848,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/rakshit432/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/rakshit432/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/rakshit432/DSA/tree/master/0460-lfu-cache) |
+| [0876-middle-of-the-linked-list](https://github.com/rakshit432/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rakshit432/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/rakshit432/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
