@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/rakshit432/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0206-reverse-linked-list](https://github.com/rakshit432/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/rakshit432/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0355-design-twitter](https://github.com/rakshit432/DSA/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/rakshit432/DSA/tree/master/0460-lfu-cache) |
@@ -920,4 +921,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3161-block-placement-queries](https://github.com/rakshit432/DSA/tree/master/3161-block-placement-queries) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/rakshit432/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
