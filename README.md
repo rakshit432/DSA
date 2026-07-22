@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/rakshit432/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rakshit432/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rakshit432/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rakshit432/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rakshit432/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rakshit432/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/rakshit432/DSA/tree/master/1020-number-of-enclaves) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/rakshit432/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/rakshit432/DSA/tree/master/0213-house-robber-ii) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/rakshit432/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rakshit432/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0867-new-21-game](https://github.com/rakshit432/DSA/tree/master/0867-new-21-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/rakshit432/DSA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/rakshit432/DSA/tree/master/1111-minimum-score-triangulation-of-polygon) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/rakshit432/DSA/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/rakshit432/DSA/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/rakshit432/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rakshit432/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rakshit432/DSA/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/rakshit432/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/rakshit432/DSA/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/rakshit432/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/rakshit432/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/rakshit432/DSA/tree/master/0355-design-twitter) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rakshit432/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1612-avoid-flood-in-the-city](https://github.com/rakshit432/DSA/tree/master/1612-avoid-flood-in-the-city) |
 | [1631-path-with-minimum-effort](https://github.com/rakshit432/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/rakshit432/DSA/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
@@ -883,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/rakshit432/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/rakshit432/DSA/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rakshit432/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/rakshit432/DSA/tree/master/0802-find-eventual-safe-states) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rakshit432/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/rakshit432/DSA/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -890,6 +895,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/rakshit432/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/rakshit432/DSA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/rakshit432/DSA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Union-Find
