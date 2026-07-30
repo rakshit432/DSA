@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rakshit432/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/rakshit432/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/rakshit432/DSA/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/rakshit432/DSA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/rakshit432/DSA/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/rakshit432/DSA/tree/master/0048-rotate-image) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/rakshit432/DSA/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/rakshit432/DSA/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/rakshit432/DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/rakshit432/DSA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/rakshit432/DSA/tree/master/0401-binary-watch) |
