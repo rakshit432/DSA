@@ -29,15 +29,16 @@ public:
 
         for(int i = 0; i < n; i++) {
 
-            int rem = dp[i] % modulo;
+            int x = dp[i] % modulo;
+            int rem = x - k;
 
             // Need:
             // (dp[i] - previous) % modulo == k
-            int required = (rem - k + modulo) % modulo;
+            int required = (rem + modulo) % modulo;
 
             ans += mpp[required];
 
-            mpp[rem]++;
+            mpp[x]++;
         }
 
         return ans;
